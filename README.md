@@ -1,0 +1,1 @@
+# codeql-javascript-documentation-test
